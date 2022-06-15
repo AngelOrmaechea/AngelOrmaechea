@@ -1,4 +1,4 @@
- ## Hola, soy Angel Adriel Ormaechea <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="5px"></h2>
+ ## Hola, soy Angel Adriel Ormaechea <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="1px"></h2>
 <img align="right" alt="GIF" src="https://c.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" />
 
 - i'm from Argentina and i have 23 years old.

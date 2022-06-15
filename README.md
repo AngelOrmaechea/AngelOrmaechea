@@ -15,7 +15,7 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" />
 </a> <img align="center" alt="GIF" width="30px" height"30px" src="https://media4.giphy.com/media/J4JOGkQr4aJlSPqqJz/giphy.gif?cid=790b761151f617a8d4e96460d747155024e5274bcfe08320&rid=giphy.gif&ct=s" /> 
-</a> <img align="center" alt="GIF" width="20px" height"20px" src="https://media4.giphy.com/media/J4JOGkQr4aJlSPqqJz/giphy.gif?cid=790b761151f617a8d4e96460d747155024e5274bcfe08320&rid=giphy.gif&ct=s" /> 
+</a> <img align="center" alt="GIF" width="20" height"20" src="https://media4.giphy.com/media/J4JOGkQr4aJlSPqqJz/giphy.gif?cid=790b761151f617a8d4e96460d747155024e5274bcfe08320&rid=giphy.gif&ct=s" /> 
 </p>
 
 

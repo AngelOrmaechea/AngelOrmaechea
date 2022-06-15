@@ -1,4 +1,4 @@
- ## Hola, soy Angel Adriel Ormaechea <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="15px"></h2>
+ ## Hola, soy Angel Adriel Ormaechea <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="5px"></h2>
 <img align="right" alt="GIF" src="https://c.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" />
 
 - i'm from Argentina and i have 23 years old.
@@ -22,7 +22,7 @@
 
 
 
-- 📫 How to reach me: <a href="angelromaechea14@gmail.com"> <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
+- 📫 How to reach me: <a href="angelromaechea14@gmail.com"> <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="10px" alt="mail"></a> 
  &nbsp; &nbsp;
  <a href="https://www.linkedin.com/in/adriel-ormaechea-151455230/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
  &nbsp; &nbsp;

@@ -13,8 +13,8 @@
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20px" height="20px"/>
-</a> <img align="center" alt="GIF" width="170px" src="https://media4.giphy.com/media/J4JOGkQr4aJlSPqqJz/giphy.gif?cid=790b761151f617a8d4e96460d747155024e5274bcfe08320&rid=giphy.gif&ct=s" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" />
+</a> <img align="center" alt="GIF" width="70px" src="https://media4.giphy.com/media/J4JOGkQr4aJlSPqqJz/giphy.gif?cid=790b761151f617a8d4e96460d747155024e5274bcfe08320&rid=giphy.gif&ct=s" /> 
 </p>
 
 

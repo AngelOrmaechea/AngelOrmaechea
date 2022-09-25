@@ -5,7 +5,7 @@
 - I’m currently learning Django...
 - 🖥️ I'm Jr Back-end and i would like to learn everything necessary to contribute my grain of sand.
 - currently looking for work.
-- ⚡ Fun fact: How I Met Your Mother 🧐 > F.R.I.E.N.D.S 😶
+
 
 
 

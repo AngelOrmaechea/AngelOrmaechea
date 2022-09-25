@@ -4,7 +4,7 @@
 - i'm from Argentina and i have 23 years old.
 - I’m currently learning Django...
 - 🖥️ I'm Jr Back-end and i would like to learn everything necessary to contribute my grain of sand.
-- currently out of work.
+- currently looking for work.
 - ⚡ Fun fact: How I Met Your Mother 🧐 > F.R.I.E.N.D.S 😶
 
 

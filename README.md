@@ -1,9 +1,8 @@
  ## Hola, soy Angel Adriel Ormaechea <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="20px" height="20px"></h2>
 <img align="right" alt="GIF" src="https://c.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" />
 
-- i'm from Argentina and i have 23 years old.
-- I’m currently learning Django...
-- 🖥️ I'm Jr Back-end and i would like to learn everything necessary to contribute my grain of sand.
+- i'm from Argentina and i have 24 years old.
+- 🖥️ I'm cybersecurity-analyst and i would like to learn everything necessary to contribute my grain of sand.
 - currently looking for work.
 
 
